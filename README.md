@@ -5,4 +5,4 @@ Links
 * [linkedin](https://linkedin.com/in/wjwoodson)
 
 Documents, [talks are browsable through github](https://github.com/wjwoodson/wjwoodson.github.io/tree/main/documents).
-Contact [@wjwoodson](https://keybase.io/wjwoodson) on keybase.
+Contact [@wjwoodson](https://keybase.io/wjwoodson) on keybase, or on <a rel="me" href="https://infosec.exchange/@wjwoodson">Mastodon</a>.
