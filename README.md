@@ -1,4 +1,4 @@
-I am currently a Staff Security Engineer at Fastly, building bot management & anti-fraud products. Previously employed elsewhere in other security engineering and operations roles. I enjoy participating in security conferences and pretending I know how to perform and/or present research.
+I am currently a Staff Security Engineer at [Fastly](https://github.com/fastly), building bot management & anti-fraud products. Previously employed elsewhere in other security engineering and operations roles. I enjoy participating in conferences and pretending I know how to perform and/or present security research.
 
 Links
 * [personal website](https://williamwoodson.com/)
